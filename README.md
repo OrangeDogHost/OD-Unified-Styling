@@ -18,7 +18,7 @@ Any CSS classes that add styling via style.css will be documented here.
 
 *.ss_green_bullets*
 
-Usage: Used on any parent element of an <li> element. Doesn't matter how many DOM nodes away the parent is.
+Usage: Used on any parent element of an `<li>` element. Doesn't matter how many DOM nodes away the parent is.
 
 Example:
 
