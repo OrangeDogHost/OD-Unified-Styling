@@ -20,7 +20,7 @@
 .ss_green_bullets li {
 	list-style-image: url(images/green_dot_20px.svg);
 }
-.ss_green_bullets li > span {
+.ss_green_bullets li span {
 	position:relative;
 	top:0.4em;
 }
