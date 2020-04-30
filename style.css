@@ -5,9 +5,9 @@
  Author:         Zack Palmer (zacnoo)
  Author URI:     https://www.orangedoghost.com/
  Template:       Divi
- Version:        0.0.1
+ Version:        0.0.2
 */
-.covid_bg{
+.covid_bg {
 	background:repeating-linear-gradient(
 		135deg,
 		#FFCC03,
@@ -15,4 +15,7 @@
 		#fff 100px,
 		#fff 200px
 		);
+}
+.ss_green_bullets li {
+	list-style-image: url(images/green_dot.png);
 }
