@@ -16,11 +16,15 @@
 		#fff 200px
 		);
 }
-
-.ss_green_bullets li {
-	list-style-image: url(images/green_dot_20px.svg);
+.ss_green_bullets ul {
+	list-style-type: none;
+	padding:0;
+	margin:0;
 }
-.ss_green_bullets li span {
-	position:relative;
-	top:-0.4em;
+.ss_green_bullets li {
+
+	background: url(images/green_dot_20px.svg) no-repeat left top;
+	height: 40px;
+	padding-left:10px;
+	padding-top:3px;
 }
