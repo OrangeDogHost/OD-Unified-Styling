@@ -1,5 +1,6 @@
-# Orange Dog Unified Style Sheet
-## Overview:
+# Orange Dog Unified Divi Child Theme
+### Overview:
+
 This is a child theme for Divi, it adds some common theming to reduce the usage of the Divi custom CSS field, and reduce re-doing the same work multiple times.
 
 ### Instructions:
@@ -24,6 +25,8 @@ Example:
 
 ![ss_green_bullets_screenshot](README.assets/ss_green_bullets_screenshot.png)
 
+
+
 ### COVID-19 Background
 
 *.covid_bg*
@@ -34,5 +37,8 @@ Example:
 
 ![stripes](README.assets/stripes.svg)
 
+
+
 ## Functions:
+
 Any functionality that is added to the theme via functions.php will be documented here.
