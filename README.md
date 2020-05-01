@@ -31,7 +31,7 @@ Example:
 
 *.covid_bg*
 
-*.covid_bg_50px*
+*.covid_bg_double*
 
 Usage: Used on background, loops endlessly.
 
