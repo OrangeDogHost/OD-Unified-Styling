@@ -31,11 +31,13 @@ Example:
 
 *.covid_bg*
 
+*.covid_bg_50px*
+
 Usage: Used on background, loops endlessly.
 
 Example:
 
-![covid_stripes_marked](README.assets/covid_stripes_marked.png)
+![covid_combined-8319378](README.assets/covid_combined-8319378.png)
 
 
 
