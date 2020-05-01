@@ -35,7 +35,7 @@ Usage: Used on background, loops endlessly.
 
 Example:
 
-![stripes](README.assets/stripes.svg)
+![covid_stripes_marked](README.assets/covid_stripes_marked.png)
 
 
 
