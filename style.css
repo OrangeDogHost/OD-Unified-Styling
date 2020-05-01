@@ -34,10 +34,10 @@
 }
 
 .ss_green_bullets li {
-
 	background: url(images/green_dot_20px.svg) no-repeat left top;
-	height: 35px;
-	padding-left:30px;
-	padding-top:0.3em;
-	line-height: 1em;
+	padding-left: 35px;
+	padding-top: 0;
+	margin-bottom: 1em;
+	line-height: 1;
+	height: 2em;
 }
