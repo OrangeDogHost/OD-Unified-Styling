@@ -17,7 +17,7 @@ Any CSS classes that add styling via style.css will be documented here.
 
 ### SafeSite Ticks
 
-*.ss_ticks
+*.ss_ticks*
 
 Usage: Used on any parent element of a `<ul>` element. Doesn't matter how many DOM nodes away the parent is.
 
