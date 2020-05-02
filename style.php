@@ -8,6 +8,10 @@
  Version:        0.0.5
 */
 
+<?php
+    header("Content-type: text/css; charset: UTF-8");
+?>
+
 .covid_bg {
 	background:repeating-linear-gradient(
 		135deg,
