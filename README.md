@@ -13,17 +13,29 @@ It is designed to be automatically deployed, but can be added by simply grabbing
 
 Any CSS classes that add styling via style.css will be documented here.
 
+****
+
+### SafeSite Ticks
+
+*.ss_ticks
+
+Usage: Used on any parent element of a `<ul>` element. Doesn't matter how many DOM nodes away the parent is.
+
+Example:
+
+![image-20200502184558163](README.assets/image-20200502184558163.png)
+
 
 
 ### SafeSite Bullet Points
 
 *.ss_green_bullets*
 
-Usage: Used on any parent element of an `<li>` element. Doesn't matter how many DOM nodes away the parent is.
+Usage: Used on any parent element of an `<ul>` element. Doesn't matter how many DOM nodes away the parent is.
 
 Example:
 
-![ss_green_bullets_screenshot](README.assets/ss_green_bullets_screenshot.png)
+![image-20200502184539243](README.assets/image-20200502184539243.png)
 
 
 
